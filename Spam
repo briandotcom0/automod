@@ -1,0 +1,6 @@
+#Spam
+
+type: comment
+body_shorter_than: 2
+body: F
+action: remove
