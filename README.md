@@ -11,4 +11,4 @@ make a new file in the same folder
 add the file name to the list in line 2 of both both cat.sh and cat.bat along woth another brk
 eg: cat approved **brk newFile** brk spam brk trolls
 
-for removing, you just need to remove from the cat command, the file itself can stay. or you can just deñete the xontents and leave it in the comand.
+for removing, you just need to remove from the cat command, the file itself can stay. or you can just delete the contents and leave it in the comand.
